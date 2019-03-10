@@ -283,6 +283,10 @@ body {
 .slidersection{
 	clear: both;
 }
+.carousel {
+    position: relative;
+    z-index: 0;
+}
 .controls ul{
 border-left: 1px solid #999999;
 border-right: 1px solid #999999;
